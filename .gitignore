@@ -1,0 +1,4 @@
+.phpunit.cache/
+src/Core/config.php
+vendor/
+.phpunit.result.cache
