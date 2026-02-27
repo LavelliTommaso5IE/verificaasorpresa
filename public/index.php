@@ -1,4 +1,5 @@
 <?php
+require_once("../src/Core/config.php");
 use DI\Container;
 use Slim\Factory\AppFactory;
 use Psr\Http\Message\ResponseInterface as Response;
