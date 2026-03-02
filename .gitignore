@@ -1,4 +1,5 @@
 .phpunit.cache/
 src/Core/config.php
 vendor/
+frontend-slim/vendor/
 .phpunit.result.cache
